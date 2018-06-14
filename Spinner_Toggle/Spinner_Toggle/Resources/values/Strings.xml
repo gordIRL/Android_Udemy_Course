@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Spinner_Toggle</string>
+
+  <string-array name="Italian">
+    <item>Piza</item>
+    <item>Pasta</item>
+    <item>Coffee</item>
+    <item>Gelato</item>  
+  </string-array>
+
+  <string-array name="French">
+    <item>Baguette</item>
+    <item>Soupe</item>
+    <item>Croque-Monsieur</item>
+    <item>Quiche</item>
+  </string-array>
+  
+</resources>

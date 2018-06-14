@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theming_test", "theming_test\theming_test.csproj", "{046A4FF4-B35D-43F8-B5C5-5A5D47691141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{046A4FF4-B35D-43F8-B5C5-5A5D47691141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046A4FF4-B35D-43F8-B5C5-5A5D47691141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046A4FF4-B35D-43F8-B5C5-5A5D47691141}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{046A4FF4-B35D-43F8-B5C5-5A5D47691141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046A4FF4-B35D-43F8-B5C5-5A5D47691141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{046A4FF4-B35D-43F8-B5C5-5A5D47691141}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {164115AA-7F55-4114-9EE0-BBE7F43E6863}
+	EndGlobalSection
+EndGlobal
