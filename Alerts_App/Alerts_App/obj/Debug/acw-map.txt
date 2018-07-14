@@ -1,0 +1,4 @@
+Alerts_App.MainActivity, Alerts_App;md557fd345f66c415072960987cbdfbe24d.MainActivity
+Alerts_App.MainActivity, Alerts_App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md557fd345f66c415072960987cbdfbe24d.MainActivity
+Alerts_App.MainActivity;md557fd345f66c415072960987cbdfbe24d.MainActivity
+alerts_app.MainActivity;md557fd345f66c415072960987cbdfbe24d.MainActivity

@@ -28,7 +28,7 @@ namespace ListViewApp_1
             ArrayAdapter adapter = new ArrayAdapter(this, Android.Resource.Layout.SimpleListItem1, myList);
             listView1.Adapter = adapter;
 
-            listView1.ItemClick += ListView1_ItemClick;
+            listView1.ItemClick += ListView1_ItemClick;           
         }
 
 

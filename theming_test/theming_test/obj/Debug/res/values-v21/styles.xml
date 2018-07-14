@@ -1,0 +1,1 @@
+<resources><style name="MyTheme" parent="MyTheme.Base"><item name="android:windowContentTransitions">true</item></style></resources>

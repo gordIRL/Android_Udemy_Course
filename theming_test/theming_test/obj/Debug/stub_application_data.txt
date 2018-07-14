@@ -1,0 +1,2 @@
+android.app.Application
+theming_test.theming_test

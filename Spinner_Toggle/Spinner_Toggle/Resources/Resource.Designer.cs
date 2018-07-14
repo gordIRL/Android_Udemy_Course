@@ -63,6 +63,15 @@ namespace Spinner_Toggle
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050005
+			public const int checkBox2 = 2131034117;
+			
+			// aapt resource value: 0x7f050006
+			public const int checkBox3 = 2131034118;
+			
+			// aapt resource value: 0x7f050007
+			public const int checkBox4 = 2131034119;
+			
 			// aapt resource value: 0x7f050003
 			public const int radioButtonFrench = 2131034115;
 			

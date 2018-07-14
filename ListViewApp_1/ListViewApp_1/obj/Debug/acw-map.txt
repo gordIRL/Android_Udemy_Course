@@ -1,0 +1,4 @@
+ListViewApp_1.MainActivity, ListViewApp_1;md5eb290f32c1e9a06c27987d77bb22aadd.MainActivity
+ListViewApp_1.MainActivity, ListViewApp_1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eb290f32c1e9a06c27987d77bb22aadd.MainActivity
+ListViewApp_1.MainActivity;md5eb290f32c1e9a06c27987d77bb22aadd.MainActivity
+listviewapp_1.MainActivity;md5eb290f32c1e9a06c27987d77bb22aadd.MainActivity

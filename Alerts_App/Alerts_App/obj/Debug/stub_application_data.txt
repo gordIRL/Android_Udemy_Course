@@ -1,0 +1,2 @@
+android.app.Application
+Alerts_App.Alerts_App

@@ -1,0 +1,4 @@
+Spinner_Toggle.MainActivity, Spinner_Toggle;md51e9a598335e6efa10ed56d32e99241c1.MainActivity
+Spinner_Toggle.MainActivity, Spinner_Toggle, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51e9a598335e6efa10ed56d32e99241c1.MainActivity
+Spinner_Toggle.MainActivity;md51e9a598335e6efa10ed56d32e99241c1.MainActivity
+spinner_toggle.MainActivity;md51e9a598335e6efa10ed56d32e99241c1.MainActivity
